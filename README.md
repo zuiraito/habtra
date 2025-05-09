@@ -20,6 +20,10 @@ Run the program with
 ```
 $ habits
 ```
+You can add an entry for the day before with
+```
+$ habits yesterday
+``` 
 Here you can ender a habit you did today, optionally with an numeric value. For example:
 ```
 Which habits did you do today (2025-05-09)?
