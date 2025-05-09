@@ -2,11 +2,11 @@
 Yet another habit tracker
 
 ## Installation
-Download the script and make it executable:
+#### Download the script and make it executable:
 ```
 mkdir -p ~/Skripte && cd ~/Skripte && git clone https://github.com/zuiraito/habtra.git && chmod +x ~/Skripte/habtra/habits.sh 
 ```
-Make the command `habits` execute the script:
+#### Make the command `habits` execute the script:
 On bash (most linux distros)
 ```
 echo "alias habits='~/Skripte/habtra/habits.sh'" >> ~/.bashrc && source ~/.bashrc
