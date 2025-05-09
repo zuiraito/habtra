@@ -26,4 +26,8 @@ Which habits did you do today (2025-05-09)?
 (Type one, then press enter. Type 'done' to finish.)
 > swimming
 ```
-If the habit is entered for the first time, you will get prompted if you want to create it. Press `y` and then enter to add the habit. The habit log files are saved in `~/Habits`.
+If the habit is entered for the first time, you will get prompted if you want to create it. Press `y` and then enter to add the habit. The habit log files are saved in `~/Habits`.<br>
+To exit the program, type
+```
+> done
+```
